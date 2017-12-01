@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="IntalkFeladat:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/IntalkFeladat_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="IntalkFeladat/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="IntalkFeladat" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
